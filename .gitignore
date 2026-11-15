@@ -1,0 +1,7 @@
+data/raw/
+.venv/
+__pycache__/
+.omc/
+
+web/node_modules/
+web/dist/
